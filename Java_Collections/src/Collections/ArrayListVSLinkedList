@@ -1,0 +1,7 @@
+1. Manipulation in arraylist is slow because it internally uses an array. If any element is removed, all the bits are shifted
+in the memory. Manipulation in linkedList is faster because it uses the concept of doubly linked list so no bit shifting is req
+
+2. ArrayList can only act like a list because it implements only list interface while LinkedList can act like List and Queue
+because it implements both List and Deque interfaces
+
+3. Arraylist is better for storing and accessing data while LinkedList is better for manipulating data.
