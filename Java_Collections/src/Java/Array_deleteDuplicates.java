@@ -7,7 +7,14 @@ public class Array_deleteDuplicates {
 
 		
 		int a[] = {43,98,99,99,22,23,102};
-	 
+		System.out.println("Array before removing duplicates : ");
+		for(int i : a)
+		{
+			
+				System.out.println(i);
+			
+			
+		}
 		for (int i = 0; i < a.length; i++)   
 		        {  
 		            for (int j = i + 1; j < a.length; j++)   

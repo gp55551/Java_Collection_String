@@ -20,6 +20,7 @@ public class vowelCountinString {
 	              count++;
 	          }
 	      }
+	      
 
 	      // display total count of vowels in string
 	      System.out.println(

@@ -24,10 +24,11 @@ public class LambdaExpPrintListMap {
 		System.out.println(hm);
 			
 		//Print the key and value of Map using Lambda expression
-		
+
 		hm.forEach((key, value) -> {System.out.println( "Key: " + key + " - Value:" + value);});
         
 		//LIST
+		
 		
 		//Print the key and value of Map using Lambda expression
 		

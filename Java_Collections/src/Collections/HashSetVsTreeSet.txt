@@ -1,1 +1,3 @@
-Hashset does not maintain any order of elements while treeset elements are sorted in ascending by default
+Hashset does not maintain any order of elements 
+
+while treeset elements are sorted in ascending by default

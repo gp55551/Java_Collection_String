@@ -8,16 +8,19 @@ public class printOccurenceofMultipleCharStringHashmap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//vvv imp
 		String str = "SSDRRRTTYYTYTR";
+		
 		HashMap<Character, Integer> hm = new HashMap<>();
+		
 		for(int i=str.length()-1 ; i>=0; i--) {
-			if(hm.containsKey(str.charAt(i))) {
-				int count = hm.get(str.charAt(i));
-				hm.put(str.charAt(i), ++count);
+			if(!hm.containsKey(str.charAt(i))) {
+				hm.put(str.charAt(i), 1);
 			}
 			else {
-				hm.put(str.charAt(i), 1);
+				
+				int count = hm.get(str.charAt(i));
+				hm.put(str.charAt(i), ++count);
 			}
 		}
 		System.out.println(hm);
