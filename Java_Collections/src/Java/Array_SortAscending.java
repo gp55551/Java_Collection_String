@@ -1,6 +1,6 @@
 package Java;
 
-public class SortArrayAscending {
+public class Array_SortAscending {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -21,7 +21,11 @@ public class SortArrayAscending {
 		for (int k=0; k<a.length; k++) {
 			System.out.println(a[k]);
 		}
-
+		
+		for(int i : a)
+		{
+			System.out.println(i);
+		}
 	}
 
 }

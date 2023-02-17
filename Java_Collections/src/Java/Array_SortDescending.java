@@ -1,6 +1,6 @@
 package Java;
 
-public class SortArrayDescending {
+public class Array_SortDescending {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
