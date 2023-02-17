@@ -1,6 +1,6 @@
 package Java;
 
-public class capitaliseEvenIndexinString {
+public class String_capitaliseEvenIndex {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

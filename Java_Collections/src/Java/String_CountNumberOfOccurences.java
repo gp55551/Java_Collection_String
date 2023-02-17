@@ -1,7 +1,7 @@
 package Java;
 
 
-public class CountNumberOfOccurencesInString {
+public class String_CountNumberOfOccurences {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

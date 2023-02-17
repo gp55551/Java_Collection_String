@@ -3,7 +3,7 @@ package practisejan2023;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import Java.RemoveDuplicatesAndPrintUniqueNumber_Array;
+import Java.Array_RemoveDuplicatesAndPrintUniqueNumber;
 
 public class three {
 

@@ -1,6 +1,6 @@
 package Java;
 
-public class MinimumNumberInArray {
+public class Array_MinimumNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

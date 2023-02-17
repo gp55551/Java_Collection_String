@@ -1,6 +1,6 @@
 package Java;
 
-public class Array_secondlargest {
+public class Array_SecondLargest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
 package Java;
 
-public class SumofElementsArray {
+public class Array_SumofElements {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
 package Java;
 
-public class MaximumNumberInArray {
+public class Array_MaximumNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

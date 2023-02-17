@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-import Java.RemoveDuplicatesAndPrintUniqueNumber_Array;
+import Java.Array_RemoveDuplicatesAndPrintUniqueNumber;
 
 public class five {
 

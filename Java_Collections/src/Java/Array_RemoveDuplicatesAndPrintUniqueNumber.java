@@ -1,7 +1,7 @@
 package Java;
 import java.util.ArrayList;
 
-public class RemoveDuplicatesAndPrintUniqueNumber_Array {
+public class Array_RemoveDuplicatesAndPrintUniqueNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

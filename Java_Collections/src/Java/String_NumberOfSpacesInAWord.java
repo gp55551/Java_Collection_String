@@ -1,6 +1,6 @@
 package Java;
 
-public class NumberOfSpacesInAWord {
+public class String_NumberOfSpacesInAWord {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

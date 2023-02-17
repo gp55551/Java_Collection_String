@@ -8,7 +8,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
-import Java.RemoveDuplicatesAndPrintUniqueNumber_Array;
+import Java.Array_RemoveDuplicatesAndPrintUniqueNumber;
 
 public class six {
 

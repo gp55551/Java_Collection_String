@@ -1,11 +1,11 @@
-package Java;
+package Collections;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.TreeSet;
 
-public class StringList_Sort {
+public class TreeSort_StringListSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
